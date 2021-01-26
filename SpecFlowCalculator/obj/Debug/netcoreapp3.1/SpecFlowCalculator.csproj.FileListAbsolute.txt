@@ -1,0 +1,9 @@
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.deps.json
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csprojAssemblyReference.cache
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Users\sShtereva\OneDrive - ENDAVA\Desktop\SpecflowDocs\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
