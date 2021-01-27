@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D+brIZgl1If5kYivIMzZu6X9xGjUEXihsIU4dYoNMaEtPz+o6IjqU9FkQxRVzxDGP+3MvpkD/quPqQ8MO81NpQ==",
+  "dgSpecHash": "fBK45Nwu/lxsz73WHQZBvNlBoskTfCFW2zf9LVB4pwor83wclTO1ukYohAB0sbAi9vbiVtqCJ1/lsYdPis/uzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sShtereva\\OneDrive - ENDAVA\\Desktop\\SpecflowDocs\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+  "projectFilePath": "C:\\Users\\sShtereva\\Source\\Repos\\Silvena\\SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sShtereva\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\sShtereva\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

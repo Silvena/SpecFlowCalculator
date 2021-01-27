@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sShtereva\\OneDrive - ENDAVA\\Desktop\\SpecflowDocs\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\sShtereva\\Source\\Repos\\Silvena\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
       "projectName": "SpecFlowCalculator",
-      "projectPath": "C:\\Users\\sShtereva\\OneDrive - ENDAVA\\Desktop\\SpecflowDocs\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+      "projectPath": "C:\\Users\\sShtereva\\Source\\Repos\\Silvena\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
       "packagesPath": "C:\\Users\\sShtereva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sShtereva\\OneDrive - ENDAVA\\Desktop\\SpecflowDocs\\SpecFlowCalculator\\SpecFlowCalculator\\obj\\",
+      "outputPath": "C:\\Users\\sShtereva\\Source\\Repos\\Silvena\\SpecFlowCalculator\\SpecFlowCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sShtereva\\AppData\\Roaming\\NuGet\\NuGet.Config",
